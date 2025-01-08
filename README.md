@@ -1,18 +1,3 @@
-# DandyHacks
- Dandy Hacks lmaooo
-
-
-# Decription
-
-# Set Up
-ENV with API keys
-```
-#API Keys
-GPt
-
-```
-
-
 # TODO
 - [ ] Home Page
 - [ ] Login Page
