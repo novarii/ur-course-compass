@@ -1,0 +1,1117 @@
+{
+  "custom_courses": {
+    "fall": [
+      {
+        "dep": "CSC",
+        "num": "131",
+        "title": "Recreational Graphics",
+        "prereq": "N/A",
+        "credit": "4.0",
+        "start": "11:05 AM",
+        "end": "12:20 PM",
+        "term": "Fall"
+      },
+      {
+        "dep": "CSC",
+        "num": "161",
+        "title": "Introduction to Programming",
+        "prereq": "N/A",
+        "credit": "4.0",
+        "start": "11:05 AM",
+        "end": "12:20 PM",
+        "term": "Fall"
+      },
+      {
+        "dep": "CSC",
+        "num": "170",
+        "title": "Introduction to Web Development",
+        "prereq": "N/A",
+        "credit": "4.0",
+        "start": "11:05 AM",
+        "end": "12:20 PM",
+        "term": "Fall"
+      },
+      {
+        "dep": "CSC",
+        "num": "212",
+        "title": "Human Computer Interaction",
+        "prereq": "CSC 172, CSC 242",
+        "credit": "4.0",
+        "start": "11:05 AM",
+        "end": "12:20 PM",
+        "term": "Fall"
+      },
+      {
+        "dep": "CSC",
+        "num": "214",
+        "title": "Mobile App Development",
+        "prereq": "CSC 172",
+        "credit": "4.0",
+        "start": "6:15 PM",
+        "end": "7:30 PM",
+        "term": "Fall"
+      },
+      {
+        "dep": "CSC",
+        "num": "216",
+        "title": "AR/VR Design",
+        "prereq": "CSC 214, CSC 172",
+        "credit": "4.0",
+        "start": "9:40 AM",
+        "end": "10:55 AM",
+        "term": "Fall"
+      },
+      {
+        "dep": "CSC",
+        "num": "240",
+        "title": "Data Mining",
+        "prereq": "CSC 171, CSC 172, MATH 161",
+        "credit": "4.0",
+        "start": "3:25 PM",
+        "end": "4:40 PM",
+        "term": "Fall"
+      },
+      {
+        "dep": "CSC",
+        "num": "245",
+        "title": "Deep Learning",
+        "prereq": "CSC 164, CSC 165, CSC 172",
+        "credit": "4.0",
+        "start": "9:40 AM",
+        "end": "10:55 AM",
+        "term": "Fall"
+      },
+      {
+        "dep": "CSC",
+        "num": "246",
+        "title": "Machine Learning",
+        "prereq": "MATH 161, MATH 162, MATH 165",
+        "credit": "4.0",
+        "start": "11:05 AM",
+        "end": "12:20 PM",
+        "term": "Fall"
+      },
+      {
+        "dep": "CSC",
+        "num": "253",
+        "title": "Collaborative Programming and Software Design",
+        "prereq": "CSC 172, CSC 252",
+        "credit": "4.0",
+        "start": "3:25 PM",
+        "end": "4:40 PM",
+        "term": "Fall"
+      },
+      {
+        "dep": "CSC",
+        "num": "256",
+        "title": "Operating Systems",
+        "prereq": "CSC 252",
+        "credit": "4.0",
+        "start": "2:00 PM",
+        "end": "3:15 PM",
+        "term": "Fall"
+      },
+      {
+        "dep": "CSC",
+        "num": "257",
+        "title": "Computer Networks",
+        "prereq": "CSC 252",
+        "credit": "4.0",
+        "start": "4:50 PM",
+        "end": "6:05 PM",
+        "term": "Fall"
+      },
+      {
+        "dep": "CSC",
+        "num": "259",
+        "title": "Computer Imaging & Graphics",
+        "prereq": "N/A",
+        "credit": "4.0",
+        "start": "11:50 AM",
+        "end": "10:05 PM",
+        "term": "Fall"
+      },
+      {
+        "dep": "CSC",
+        "num": "261",
+        "title": "Database Systems",
+        "prereq": "CSC 172",
+        "credit": "4.0",
+        "start": "12:30 PM",
+        "end": "1:45 PM",
+        "term": "Fall"
+      },
+      {
+        "dep": "CSC",
+        "num": "273W",
+        "title": "Writing for Computer Science",
+        "prereq": "N/A",
+        "credit": "2.0",
+        "start": "2:00 PM",
+        "end": "3:15 PM",
+        "term": "Fall"
+      },
+      {
+        "dep": "CSC",
+        "num": "277",
+        "title": "End-To-End Deep Learning",
+        "prereq": "CSC 242",
+        "credit": "4.0",
+        "start": "3:25 PM",
+        "end": "4:40 PM",
+        "term": "Fall"
+      },
+      {
+        "dep": "CSC",
+        "num": "279",
+        "title": "Computational Geometry",
+        "prereq": "CSC 172",
+        "credit": "4.0",
+        "start": "9:00 AM",
+        "end": "10:15 AM",
+        "term": "Fall"
+      },
+      {
+        "dep": "CSC",
+        "num": "281",
+        "title": "Intro to Cryptography",
+        "prereq": "CSC 280, MATH 150",
+        "credit": "4.0",
+        "start": "9:00 AM",
+        "end": "10:15 AM",
+        "term": "Fall"
+      },
+      {
+        "dep": "CSC",
+        "num": "284",
+        "title": "Advanced Algorithms",
+        "prereq": "N/A",
+        "credit": "4.0",
+        "start": "4:50 PM",
+        "end": "6:05 PM",
+        "term": "Fall"
+      },
+      {
+        "dep": "CSC",
+        "num": "290",
+        "title": "Topics in Systems: Machine Learning Systems",
+        "prereq": "CSC 252",
+        "credit": "4.0",
+        "start": "9:00 AM",
+        "end": "10:15 AM",
+        "term": "Fall"
+      },
+      {
+        "dep": "CSC",
+        "num": "299W",
+        "title": "Social Implications of Computing",
+        "prereq": "N/A",
+        "credit": "4.0",
+        "start": "3:25 PM",
+        "end": "4:40 PM",
+        "term": "Fall"
+      },
+      {
+        "dep": "CSC",
+        "num": "412",
+        "title": "Human Computer Interaction",
+        "prereq": "N/A",
+        "credit": "4.0",
+        "start": "11:05 AM",
+        "end": "12:20 PM",
+        "term": "Fall"
+      },
+      {
+        "dep": "CSC",
+        "num": "413",
+        "title": "Introduction to Augmented and Virtual Reality",
+        "prereq": "N/A",
+        "credit": "4.0",
+        "start": "2:00 PM",
+        "end": "3:15 PM",
+        "term": "Fall"
+      },
+      {
+        "dep": "CSC",
+        "num": "416",
+        "title": "AR/VR Interaction Design",
+        "prereq": "CSC 172, CSC 214",
+        "credit": "4.0",
+        "start": "9:40 AM",
+        "end": "10:55 AM",
+        "term": "Fall"
+      },
+      {
+        "dep": "CSC",
+        "num": "435",
+        "title": "Optimization for Machine Learning",
+        "prereq": "N/A",
+        "credit": "4.0",
+        "start": "9:40 AM",
+        "end": "10:55 AM",
+        "term": "Fall"
+      },
+      {
+        "dep": "CSC",
+        "num": "440",
+        "title": "Data Mining",
+        "prereq": "N/A",
+        "credit": "4.0",
+        "start": "2:00 PM",
+        "end": "3:15 PM",
+        "term": "Fall"
+      },
+      {
+        "dep": "CSC",
+        "num": "441",
+        "title": "Intro to Computational Neuroscience",
+        "prereq": "N/A",
+        "credit": "4.0",
+        "start": "12:30 PM",
+        "end": "1:45 PM",
+        "term": "Fall"
+      },
+      {
+        "dep": "CSC",
+        "num": "442",
+        "title": "Artificial Intelligence",
+        "prereq": "N/A",
+        "credit": "4.0",
+        "start": "11:05 AM",
+        "end": "12:20 PM",
+        "term": "Fall"
+      },
+      {
+        "dep": "CSC",
+        "num": "445",
+        "title": "Deep Learning",
+        "prereq": "CSC 172, MATH 164, MATH 165",
+        "credit": "4.0",
+        "start": "9:40 AM",
+        "end": "10:55 AM",
+        "term": "Fall"
+      },
+      {
+        "dep": "CSC",
+        "num": "452",
+        "title": "Computer Organization",
+        "prereq": "MATH 150, CSC 172",
+        "credit": "4.0",
+        "start": "3:25 PM",
+        "end": "4:40 PM",
+        "term": "Fall"
+      },
+      {
+        "dep": "CSC",
+        "num": "453",
+        "title": "Collaborative Programming and Software Design",
+        "prereq": "CSC 172, CSC 252",
+        "credit": "4.0",
+        "start": "3:25 PM",
+        "end": "4:40 PM",
+        "term": "Fall"
+      },
+      {
+        "dep": "CSC",
+        "num": "454",
+        "title": "Prog Language Design & Imp.",
+        "prereq": "N/A",
+        "credit": "4.0",
+        "start": "10:25 AM",
+        "end": "11:40 AM",
+        "term": "Fall"
+      },
+      {
+        "dep": "CSC",
+        "num": "456",
+        "title": "Operating Systems",
+        "prereq": "N/A",
+        "credit": "4.0",
+        "start": "2:00 PM",
+        "end": "3:15 PM",
+        "term": "Fall"
+      },
+      {
+        "dep": "CSC",
+        "num": "457",
+        "title": "Computer Networks",
+        "prereq": "N/A",
+        "credit": "4.0",
+        "start": "4:50 PM",
+        "end": "6:05 PM",
+        "term": "Fall"
+      },
+      {
+        "dep": "CSC",
+        "num": "459",
+        "title": "Computer Imaging & Graphics",
+        "prereq": "N/A",
+        "credit": "4.0",
+        "start": "11:50 AM",
+        "end": "10:05 PM",
+        "term": "Fall"
+      },
+      {
+        "dep": "CSC",
+        "num": "461",
+        "title": "Database Systems",
+        "prereq": "N/A",
+        "credit": "4.0",
+        "start": "12:30 PM",
+        "end": "1:45 PM",
+        "term": "Fall"
+      },
+      {
+        "dep": "CSC",
+        "num": "462",
+        "title": "Computational Introduction to Statistics",
+        "prereq": "MATH 150, MATH 161",
+        "credit": "4.0",
+        "start": "4:50 PM",
+        "end": "6:05 PM",
+        "term": "Fall"
+      },
+      {
+        "dep": "CSC",
+        "num": "474",
+        "title": "Quantum Information Processing",
+        "prereq": "MATH 165",
+        "credit": "4.0",
+        "start": "4:50 PM",
+        "end": "6:05 PM",
+        "term": "Fall"
+      },
+      {
+        "dep": "CSC",
+        "num": "477",
+        "title": "End-To-End Deep Learning",
+        "prereq": "CSC 242",
+        "credit": "4.0",
+        "start": "3:25 PM",
+        "end": "4:40 PM",
+        "term": "Fall"
+      },
+      {
+        "dep": "CSC",
+        "num": "479",
+        "title": "Computational Geometry",
+        "prereq": "CSC 172",
+        "credit": "4.0",
+        "start": "9:00 AM",
+        "end": "10:15 AM",
+        "term": "Fall"
+      },
+      {
+        "dep": "CSC",
+        "num": "480",
+        "title": "Computer Models & Limitations",
+        "prereq": "CSC 173, MATH 150",
+        "credit": "4.0",
+        "start": "2:00 PM",
+        "end": "3:15 PM",
+        "term": "Fall"
+      },
+      {
+        "dep": "CSC",
+        "num": "481",
+        "title": "Intro to Cryptography",
+        "prereq": "CSC 280, MATH 150",
+        "credit": "4.0",
+        "start": "9:00 AM",
+        "end": "10:15 AM",
+        "term": "Fall"
+      },
+      {
+        "dep": "CSC",
+        "num": "482",
+        "title": "Design & Analysis of Efficient Algorithms",
+        "prereq": "CSC 172, MATH 150",
+        "credit": "4.0",
+        "start": "11:05 AM",
+        "end": "12:20 PM",
+        "term": "Fall"
+      },
+      {
+        "dep": "CSC",
+        "num": "484",
+        "title": "Advanced Algorithms",
+        "prereq": "CSC 482",
+        "credit": "4.0",
+        "start": "4:50 PM",
+        "end": "6:05 PM",
+        "term": "Fall"
+      },
+      {
+        "dep": "CSC",
+        "num": "511",
+        "title": "Large Language Models",
+        "prereq": "CSC 247, CSC 245, CSC 266, CSC 277, CSC 246",
+        "credit": "4.0",
+        "start": "9:00 AM",
+        "end": "10:15 AM",
+        "term": "Fall"
+      },
+      {
+        "dep": "CSC",
+        "num": "571",
+        "title": "Topics in Systems: Machine Learning Systems",
+        "prereq": "N/A",
+        "credit": "4.0",
+        "start": "9:00 AM",
+        "end": "10:15 AM",
+        "term": "Fall"
+      }
+    ],
+    "spring": [
+      {
+        "dep": "CSC",
+        "num": "161",
+        "title": "Introduction to Programming",
+        "prereq": "N/A",
+        "credit": "4.0",
+        "start": "4:50 PM",
+        "end": "6:05 PM",
+        "term": "Spring"
+      },
+      {
+        "dep": "CSC",
+        "num": "170",
+        "title": "Introduction to Web Development",
+        "prereq": "N/A",
+        "credit": "4.0",
+        "start": "11:05 AM",
+        "end": "12:20 PM",
+        "term": "Spring"
+      },
+      {
+        "dep": "CSC",
+        "num": "186",
+        "title": "Video Game Development",
+        "prereq": "N/A",
+        "credit": "4.0",
+        "start": "11:05 AM",
+        "end": "12:20 PM",
+        "term": "Spring"
+      },
+      {
+        "dep": "CSC",
+        "num": "200",
+        "title": "Undergraduate Problem Seminar",
+        "prereq": "CSC 171, MATH 150, CSC 172, CSC 173",
+        "credit": "4.0",
+        "start": "4:50 PM",
+        "end": "6:05 PM",
+        "term": "Spring"
+      },
+      {
+        "dep": "CSC",
+        "num": "200H",
+        "title": "Honors Undergraduate Problem Seminar",
+        "prereq": "CSC 171, MATH 150, CSC 172, CSC 173",
+        "credit": "4.0",
+        "start": "4:50 PM",
+        "end": "6:05 PM",
+        "term": "Spring"
+      },
+      {
+        "dep": "CSC",
+        "num": "210",
+        "title": "Web Programming",
+        "prereq": "CSC 172",
+        "credit": "4.0",
+        "start": "2:00 PM",
+        "end": "3:15 PM",
+        "term": "Spring"
+      },
+      {
+        "dep": "CSC",
+        "num": "211",
+        "title": "Introduction to HCI",
+        "prereq": "CSC 172",
+        "credit": "4.0",
+        "start": "12:30 PM",
+        "end": "1:45 PM",
+        "term": "Spring"
+      },
+      {
+        "dep": "CSC",
+        "num": "214",
+        "title": "Mobile App Development",
+        "prereq": "CSC 172",
+        "credit": "4.0",
+        "start": "6:15 PM",
+        "end": "7:30 PM",
+        "term": "Spring"
+      },
+      {
+        "dep": "CSC",
+        "num": "229",
+        "title": "Computer Models of Perception & Cognition",
+        "prereq": "MATH 161, MATH 162, CSC 161",
+        "credit": "4.0",
+        "start": "11:05 AM",
+        "end": "12:20 PM",
+        "term": "Spring"
+      },
+      {
+        "dep": "CSC",
+        "num": "240",
+        "title": "Data Mining",
+        "prereq": "CSC 171, CSC 172, MATH 161",
+        "credit": "4.0",
+        "start": "4:50 PM",
+        "end": "6:05 PM",
+        "term": "Spring"
+      },
+      {
+        "dep": "CSC",
+        "num": "246",
+        "title": "Machine Learning",
+        "prereq": "MATH 161, MATH 162, MATH 165",
+        "credit": "4.0",
+        "start": "11:05 AM",
+        "end": "12:20 PM",
+        "term": "Spring"
+      },
+      {
+        "dep": "CSC",
+        "num": "247",
+        "title": "Natural Language Processing",
+        "prereq": "CSC 172, CSC 242",
+        "credit": "4.0",
+        "start": "10:25 AM",
+        "end": "11:40 AM",
+        "term": "Spring"
+      },
+      {
+        "dep": "CSC",
+        "num": "249",
+        "title": "Machine Vision",
+        "prereq": "MATH 161, CSC 242",
+        "credit": "4.0",
+        "start": "9:40 AM",
+        "end": "10:55 AM",
+        "term": "Spring"
+      },
+      {
+        "dep": "CSC",
+        "num": "251",
+        "title": "Advanced Computer Architecture",
+        "prereq": "MATH 150, CSC 172",
+        "credit": "4.0",
+        "start": "2:00 PM",
+        "end": "3:15 PM",
+        "term": "Spring"
+      },
+      {
+        "dep": "CSC",
+        "num": "255",
+        "title": "Software Analysis & Improv",
+        "prereq": "CSC 252",
+        "credit": "4.0",
+        "start": "10:25 AM",
+        "end": "11:40 AM",
+        "term": "Spring"
+      },
+      {
+        "dep": "CSC",
+        "num": "258",
+        "title": "Parallel & Distributed Systems",
+        "prereq": "N/A",
+        "credit": "4.0",
+        "start": "3:25 PM",
+        "end": "4:40 PM",
+        "term": "Spring"
+      },
+      {
+        "dep": "CSC",
+        "num": "261",
+        "title": "Database Systems",
+        "prereq": "CSC 172",
+        "credit": "4.0",
+        "start": "10:25 AM",
+        "end": "11:40 AM",
+        "term": "Spring"
+      },
+      {
+        "dep": "CSC",
+        "num": "263",
+        "title": "Data Management Systems",
+        "prereq": "CSC 173, CSC 252",
+        "credit": "4.0",
+        "start": "9:00 AM",
+        "end": "10:15 AM",
+        "term": "Spring"
+      },
+      {
+        "dep": "CSC",
+        "num": "273W",
+        "title": "Writing for Computer Science",
+        "prereq": "N/A",
+        "credit": "2.0",
+        "start": "4:50 PM",
+        "end": "6:05 PM",
+        "term": "Spring"
+      },
+      {
+        "dep": "CSC",
+        "num": "278",
+        "title": "Computer Security Foundations",
+        "prereq": "CSC 252",
+        "credit": "4.0",
+        "start": "6:15 PM",
+        "end": "7:30 PM",
+        "term": "Spring"
+      },
+      {
+        "dep": "CSC",
+        "num": "283",
+        "title": "Topics in Cryptography",
+        "prereq": "CSC 281",
+        "credit": "4.0",
+        "start": "9:00 AM",
+        "end": "10:15 AM",
+        "term": "Spring"
+      },
+      {
+        "dep": "CSC",
+        "num": "285",
+        "title": "Gems of Algorithms and Elections",
+        "prereq": "N/A",
+        "credit": "4.0",
+        "start": "4:50 PM",
+        "end": "6:05 PM",
+        "term": "Spring"
+      },
+      {
+        "dep": "CSC",
+        "num": "286",
+        "title": "Computational Complexity",
+        "prereq": "CSC 280",
+        "credit": "4.0",
+        "start": "2:00 PM",
+        "end": "3:15 PM",
+        "term": "Spring"
+      },
+      {
+        "dep": "CSC",
+        "num": "294",
+        "title": "Nonlinear Optimization",
+        "prereq": "MATH 164, MATH 165",
+        "credit": "4.0",
+        "start": "2:00 PM",
+        "end": "3:15 PM",
+        "term": "Spring"
+      },
+      {
+        "dep": "CSC",
+        "num": "295",
+        "title": "Quantum Computing",
+        "prereq": "CSC 161, CSC 171",
+        "credit": "4.0",
+        "start": "12:30 PM",
+        "end": "1:45 PM",
+        "term": "Spring"
+      },
+      {
+        "dep": "CSC",
+        "num": "297",
+        "title": "Great Ideas in Computer Science",
+        "prereq": "CSC 286",
+        "credit": "4.0",
+        "start": "9:40 AM",
+        "end": "10:55 AM",
+        "term": "Spring"
+      },
+      {
+        "dep": "CSC",
+        "num": "299W",
+        "title": "Social Implications of Computing - W",
+        "prereq": "N/A",
+        "credit": "4.0",
+        "start": "3:25 PM",
+        "end": "4:40 PM",
+        "term": "Spring"
+      },
+      {
+        "dep": "CSC",
+        "num": "402",
+        "title": "Network Science Analysis",
+        "prereq": "MATH 164, MATH 165",
+        "credit": "4.0",
+        "start": "3:25 PM",
+        "end": "4:40 PM",
+        "term": "Spring"
+      },
+      {
+        "dep": "CSC",
+        "num": "410",
+        "title": "Optimization Seminar",
+        "prereq": "N/A",
+        "credit": "4.0",
+        "start": "9:40 AM",
+        "end": "10:55 AM",
+        "term": "Spring"
+      },
+      {
+        "dep": "CSC",
+        "num": "440",
+        "title": "Data Mining",
+        "prereq": "N/A",
+        "credit": "4.0",
+        "start": "4:50 PM",
+        "end": "6:05 PM",
+        "term": "Spring"
+      },
+      {
+        "dep": "CSC",
+        "num": "446",
+        "title": "Machine Learning",
+        "prereq": "N/A",
+        "credit": "4.0",
+        "start": "11:05 AM",
+        "end": "12:20 PM",
+        "term": "Spring"
+      },
+      {
+        "dep": "CSC",
+        "num": "447",
+        "title": "Natural Language Processing",
+        "prereq": "CSC 172, CSC 242",
+        "credit": "4.0",
+        "start": "10:25 AM",
+        "end": "11:40 AM",
+        "term": "Spring"
+      },
+      {
+        "dep": "CSC",
+        "num": "449",
+        "title": "Machine Vision",
+        "prereq": "MATH 161, CSC 242",
+        "credit": "4.0",
+        "start": "9:40 AM",
+        "end": "10:55 AM",
+        "term": "Spring"
+      },
+      {
+        "dep": "CSC",
+        "num": "451",
+        "title": "Advncd Computer Architecture",
+        "prereq": "N/A",
+        "credit": "4.0",
+        "start": "2:00 PM",
+        "end": "3:15 PM",
+        "term": "Spring"
+      },
+      {
+        "dep": "CSC",
+        "num": "452",
+        "title": "Computer Organization",
+        "prereq": "N/A",
+        "credit": "4.0",
+        "start": "3:25 PM",
+        "end": "4:40 PM",
+        "term": "Spring"
+      },
+      {
+        "dep": "CSC",
+        "num": "454",
+        "title": "Programming Language Design & Implementation",
+        "prereq": "N/A",
+        "credit": "4.0",
+        "start": "3:25 PM",
+        "end": "4:40 PM",
+        "term": "Spring"
+      },
+      {
+        "dep": "CSC",
+        "num": "455",
+        "title": "Software Analysis & Improv",
+        "prereq": "N/A",
+        "credit": "4.0",
+        "start": "10:25 AM",
+        "end": "11:40 AM",
+        "term": "Spring"
+      },
+      {
+        "dep": "CSC",
+        "num": "458",
+        "title": "Parallel & Distributed Systems",
+        "prereq": "N/A",
+        "credit": "4.0",
+        "start": "3:25 PM",
+        "end": "4:40 PM",
+        "term": "Spring"
+      },
+      {
+        "dep": "CSC",
+        "num": "461",
+        "title": "Database Systems",
+        "prereq": "N/A",
+        "credit": "4.0",
+        "start": "10:25 AM",
+        "end": "11:40 AM",
+        "term": "Spring"
+      },
+      {
+        "dep": "CSC",
+        "num": "463",
+        "title": "Data Management Systems",
+        "prereq": "N/A",
+        "credit": "4.0",
+        "start": "9:00 AM",
+        "end": "10:15 AM",
+        "term": "Spring"
+      },
+      {
+        "dep": "CSC",
+        "num": "478",
+        "title": "Computer Security Foundations",
+        "prereq": "CSC 252",
+        "credit": "4.0",
+        "start": "6:15 PM",
+        "end": "7:30 PM",
+        "term": "Spring"
+      },
+      {
+        "dep": "CSC",
+        "num": "480",
+        "title": "Computer Models & Limitations",
+        "prereq": "CSC 173, MATH 150",
+        "credit": "4.0",
+        "start": "2:00 PM",
+        "end": "3:15 PM",
+        "term": "Spring"
+      },
+      {
+        "dep": "CSC",
+        "num": "482",
+        "title": "Design & Analysis Efficient Algorithms",
+        "prereq": "CSC 172, MATH 150",
+        "credit": "4.0",
+        "start": "9:40 AM",
+        "end": "10:55 AM",
+        "term": "Spring"
+      },
+      {
+        "dep": "CSC",
+        "num": "483",
+        "title": "Topics in Cryptography",
+        "prereq": "N/A",
+        "credit": "4.0",
+        "start": "9:00 AM",
+        "end": "10:15 AM",
+        "term": "Spring"
+      },
+      {
+        "dep": "CSC",
+        "num": "485",
+        "title": "Gems of Algorithms and Elections",
+        "prereq": "N/A",
+        "credit": "4.0",
+        "start": "4:50 PM",
+        "end": "6:05 PM",
+        "term": "Spring"
+      },
+      {
+        "dep": "CSC",
+        "num": "486",
+        "title": "Computational Complexity",
+        "prereq": "N/A",
+        "credit": "4.0",
+        "start": "2:00 PM",
+        "end": "3:15 PM",
+        "term": "Spring"
+      },
+      {
+        "dep": "CSC",
+        "num": "579",
+        "title": "Logic Foundation and Machine-checked Proofs",
+        "prereq": "N/A",
+        "credit": "2.0",
+        "start": "9:40 AM",
+        "end": "10:55 AM",
+        "term": "Spring"
+      },
+      {
+        "dep": "CSC",
+        "num": "597",
+        "title": "Computer Science Colloquium",
+        "prereq": "N/A",
+        "credit": "4.0",
+        "start": "11:50 AM",
+        "end": "10:05 PM",
+        "term": "Spring"
+      }
+    ]
+  },
+  "required_courses": {
+    "fall": [
+      {
+        "dep": "CSC",
+        "num": "171",
+        "title": "Introduction to Computer Science",
+        "prereq": "N/A",
+        "credit": "4.0",
+        "start": "10:25 AM",
+        "end": "11:40 AM",
+        "term": "Fall"
+      },
+      {
+        "dep": "CSC",
+        "num": "172",
+        "title": "Data Structures & Algorithms",
+        "prereq": "CSC 171, MATH 150",
+        "credit": "4.0",
+        "start": "9:40 AM",
+        "end": "10:55 AM",
+        "term": "Fall"
+      },
+      {
+        "dep": "CSC",
+        "num": "173",
+        "title": "Computation & Formal Systems",
+        "prereq": "CSC 171, MATH 150",
+        "credit": "4.0",
+        "start": "2:00 PM",
+        "end": "3:15 PM",
+        "term": "Fall"
+      },
+      {
+        "dep": "CSC",
+        "num": "242",
+        "title": "Introduction to Artificial Intelligence",
+        "prereq": "CSC 172, MTH 150",
+        "credit": "4.0",
+        "start": "3:25 PM",
+        "end": "4:40 PM",
+        "term": "Fall"
+      },
+      {
+        "dep": "CSC",
+        "num": "252",
+        "title": "Computer Organization",
+        "prereq": "MATH 150, CSC 172",
+        "credit": "4.0",
+        "start": "3:25 PM",
+        "end": "4:40 PM",
+        "term": "Fall"
+      },
+      {
+        "dep": "CSC",
+        "num": "254",
+        "title": "Programming Language Design & Implementation",
+        "prereq": "CSC 173, CSC 252",
+        "credit": "4.0",
+        "start": "10:25 AM",
+        "end": "11:40 AM",
+        "term": "Fall"
+      },
+      {
+        "dep": "CSC",
+        "num": "280",
+        "title": "Computer Models &Limitations",
+        "prereq": "N/A",
+        "credit": "4.0",
+        "start": "2:00 PM",
+        "end": "3:15 PM",
+        "term": "Fall"
+      },
+      {
+        "dep": "CSC",
+        "num": "282",
+        "title": "Design & Analysis of Efficient Algorithms",
+        "prereq": "CSC 172, MATH 150",
+        "credit": "4.0",
+        "start": "11:05 AM",
+        "end": "12:20 PM",
+        "term": "Fall"
+      }
+    ],
+    "spring": [
+      {
+        "dep": "CSC",
+        "num": "171",
+        "title": "Introduction to Computer Science",
+        "prereq": "N/A",
+        "credit": "4.0",
+        "start": "2:00 PM",
+        "end": "3:15 PM",
+        "term": "Spring"
+      },
+      {
+        "dep": "CSC",
+        "num": "172",
+        "title": "Data Structures & Algorithms",
+        "prereq": "CSC 171, MATH 150",
+        "credit": "4.0",
+        "start": "11:05 AM",
+        "end": "12:20 PM",
+        "term": "Spring"
+      },
+      {
+        "dep": "CSC",
+        "num": "173",
+        "title": "Computation & Formal Systems",
+        "prereq": "CSC 171, MATH 150",
+        "credit": "4.0",
+        "start": "2:00 PM",
+        "end": "3:15 PM",
+        "term": "Spring"
+      },
+      {
+        "dep": "CSC",
+        "num": "242",
+        "title": "Introduction to Artificial Intelligence",
+        "prereq": "CSC 172, MTH 150",
+        "credit": "4.0",
+        "start": "9:40 AM",
+        "end": "10:55 AM",
+        "term": "Spring"
+      },
+      {
+        "dep": "CSC",
+        "num": "252",
+        "title": "Computer Organization",
+        "prereq": "N/A",
+        "credit": "4.0",
+        "start": "3:25 PM",
+        "end": "4:40 PM",
+        "term": "Spring"
+      },
+      {
+        "dep": "CSC",
+        "num": "254",
+        "title": "Programming Language Design & Implementation",
+        "prereq": "CSC 173, CSC 252",
+        "credit": "4.0",
+        "start": "3:25 PM",
+        "end": "4:40 PM",
+        "term": "Spring"
+      },
+      {
+        "dep": "CSC",
+        "num": "280",
+        "title": "Computer Models & Limitations",
+        "prereq": "CSC 173, MATH 150",
+        "credit": "4.0",
+        "start": "2:00 PM",
+        "end": "3:15 PM",
+        "term": "Spring"
+      },
+      {
+        "dep": "CSC",
+        "num": "282",
+        "title": "Design & Analysis Efficient Algorithms",
+        "prereq": "CSC 172, MATH 150",
+        "credit": "4.0",
+        "start": "9:40 AM",
+        "end": "10:55 AM",
+        "term": "Spring"
+      }
+    ]
+  },
+  "Goals": "I want to learn ML and datastructures",
+  "ClassesLeft": 6,
+  "NextSem": 4
+}
