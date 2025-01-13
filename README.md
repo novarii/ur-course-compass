@@ -1,22 +1,40 @@
 # UR Course Compass
 
-A web application designed to help University of Rochester students manage their courses, assignments, and grades efficiently.
+An AI-powered course scheduling system for University of Rochester students that generates optimized academic plans while considering major requirements, cluster requirements, and graduation criteria.
 
 ## Features
 
-- **Home Page**: Overview of the application with intuitive navigation
-- **Authentication**: Secure login and signup functionality
-- **Student Dashboard**: Personalized view of enrolled courses and upcoming assignments
-- **Assignment Tracker**: Comprehensive management of course assignments and grades
-- **Profile Management**: User account and preferences configuration
+- **Major Track Support**
+  - Computer Science
+  - Mathematics
+  - Financial Economics
 
-## Getting Started
+- **Intelligent Schedule Generation**
+  - Automatic prerequisite validation
+  - Time conflict resolution
+  - Credit requirement tracking
+  - Division/cluster requirement handling
 
-### Prerequisites
+- **Division & Cluster Management**
+  - Natural Sciences and Engineering
+  - Humanities
+  - Social Sciences
+  - 3-course cluster validation
+  - Cross-division requirement tracking
 
-- Python 3.x
-- Git
-- Web browser (Chrome, Firefox, or Safari recommended)
+- **Schedule Optimization**
+  - Prioritizes major declaration prerequisites
+  - Balances core courses with clusters
+  - Strategic elective placement
+  - Considers completed coursework
+
+## Technical Requirements
+
+- Python 3.8+
+- Flask
+- OpenAI API key
+- Pandas 2.2.0+
+- Modern web browser
 
 ### Installation
 
@@ -44,31 +62,55 @@ A web application designed to help University of Rochester students manage their
    pip install -r requirements.txt
    ```
 
-5. Initialize the database:
+5. Configure environment variables:
    ```bash
-   python database.py
+   # Create .env file
+   cp .env.example .env
+   # Add your OpenAI API key to .env
+   OPENAI_API_KEY=your_api_key_here
    ```
 
 6. Start the application:
    ```bash
-   python server.py
+   python app.py
    ```
 
 7. Access the application at [http://localhost:5000](http://localhost:5000)
 
 ## Usage Guide
 
-### For Students
+1. **Input Your Information**
+   - Select your major
+   - Indicate cluster interests
+   - Enter completed courses
+   - Specify graduation year
 
-1. **Create an Account**: Sign up with your university email
-2. **Dashboard Navigation**: View all your courses and upcoming assignments
-3. **Assignment Management**: Track deadlines and submissions
-4. **Grade Monitoring**: Keep track of your academic performance
-5. **Profile Settings**: Update your personal information and preferences
+2. **Generate Schedule**
+   - System analyzes requirements
+   - Creates optimized schedule
+   - Validates all constraints
+   - Provides alternative options
+
+3. **Review and Modify**
+   - View generated schedule
+   - Check requirement satisfaction
+   - Request modifications if needed
+   - Export schedule
+
+## Development
+
+### Running Tests
+```bash
+pytest tests/
+```
+
+### Code Style
+We follow PEP 8 guidelines. Run flake8 before committing:
+```bash
+flake8 src/
+```
 
 ## Contributing
-
-We welcome contributions! Here's how you can help:
 
 1. Fork the repository
 2. Create a feature branch:
@@ -85,15 +127,36 @@ We welcome contributions! Here's how you can help:
    ```
 5. Open a Pull Request
 
+## API Documentation
+
+### Endpoints
+
+- `POST /api/generate-schedule`
+  - Generates course schedule based on student input
+  - Requires student data in JSON format
+
+- `GET /api/validate-schedule`
+  - Validates existing schedule
+  - Returns validation results and suggestions
+
+## Error Handling
+
+The system provides detailed error messages for:
+- Invalid major selection
+- Prerequisite violations
+- Time conflicts
+- Credit requirement issues
+- Division/cluster requirement violations
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Support
 
-If you encounter any issues or have questions, please:
+If you encounter any issues or have questions:
 - Open an issue in the GitHub repository
-- Contact the development team at [email protected]
+- Contact the development team at [team-email@example.com]
 
 ## Acknowledgments
 
